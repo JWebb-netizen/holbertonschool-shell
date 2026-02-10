@@ -21,3 +21,7 @@
 5-listfilesdigitonly
 
 	Returns contents of current directory, including hidden files, with group and user ID in long format
+
+6-firstdirectory
+
+	Creates a directory in /tmp with the name my_first_directory
