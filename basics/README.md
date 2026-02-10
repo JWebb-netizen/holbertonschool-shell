@@ -41,3 +41,7 @@
 10-back
 
 	Move back to the previous working directory
+
+11-lists
+
+	Lists the contents of the current directory, parent directory and boot directory, including hidden files	, in long format.
