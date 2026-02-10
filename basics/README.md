@@ -25,3 +25,7 @@
 6-firstdirectory
 
 	Creates a directory in /tmp with the name my_first_directory
+
+7-movethatfile
+
+	Moves the 'betty' file from /tmp to /tmp/my_first_directory
