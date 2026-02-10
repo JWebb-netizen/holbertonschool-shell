@@ -17,3 +17,7 @@
 4-listmorefiles
 
 	Returns contents of current directory, including hidden files, in long format
+
+5-listfilesdigitonly
+
+	Returns contents of current directory, including hidden files, with group and user ID in long format
