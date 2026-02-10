@@ -9,3 +9,7 @@
 2-bring_me_home
 
 	Returns user to their home directory
+
+3-listfiles
+
+	Returns contents of current directory in long format
