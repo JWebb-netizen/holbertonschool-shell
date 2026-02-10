@@ -33,3 +33,7 @@
 8-firstdelete
 
 	Deletes the 'betty' file from /tmp/my_first_directory
+
+9-firstdirdeletion
+
+	Deletes the empty my_first_directory from /tmp
