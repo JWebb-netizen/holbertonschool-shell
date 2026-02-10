@@ -13,3 +13,7 @@
 3-listfiles
 
 	Returns contents of current directory in long format
+
+4-listmorefiles
+
+	Returns contents of current directory, including hidden files, in long format
