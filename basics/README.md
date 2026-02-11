@@ -52,4 +52,8 @@
 
 13-symbolic_link
 
-	Creates a symbolic link to /bin/ls with the name _ls_
+	Creates a symbolic link to /bin/ls with the name __ls__
+
+14-copy_html
+
+	Move .html files from current directory to parent directory (note, update with options is not available 	and  the depricated no-clobber command was used
