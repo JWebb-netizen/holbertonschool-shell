@@ -57,3 +57,7 @@
 14-copy_html
 
 	Move .html files from current directory to parent directory (note, update with options is not available 	and  the depricated no-clobber command was used
+
+15-lets_move
+
+	Moves all files with upper case first letters from current directory to /tmp/u
