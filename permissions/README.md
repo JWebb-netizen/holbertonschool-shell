@@ -61,3 +61,7 @@
 15-symbolic_link_permissions
 
 	Change owner to vincent and group owner to staff for _hello, a symbolic link
+
+16-if_only
+
+	Changes owner of hello to vincent if current owner is guillaume
