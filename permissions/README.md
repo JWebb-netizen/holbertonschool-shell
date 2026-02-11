@@ -28,4 +28,8 @@
 
 7-everybody
 
-	Provides execute permission to all users 
+	Provides execute permission to all users
+
+8-James_Bond
+
+	Provides no permissions to owner or group, provides all permissions to users 
