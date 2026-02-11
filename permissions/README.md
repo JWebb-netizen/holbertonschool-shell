@@ -20,4 +20,8 @@
 
 5-execute
 
-	Gives the user execute permission for the file 'hello' 
+	Gives the user execute permission for the file 'hello'
+
+6-multiple_permissions
+
+	Add execute permission for owner and group owner, and read permisson for other users 
