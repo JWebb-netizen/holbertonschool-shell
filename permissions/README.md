@@ -49,3 +49,7 @@
 12-directory_permissions
 
 	Creates the directory my_dir with permissions 751
+
+13-change_group
+
+	Change the group owner of 'hello' to school
