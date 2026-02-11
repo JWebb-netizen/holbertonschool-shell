@@ -32,4 +32,8 @@
 
 8-James_Bond
 
-	Provides no permissions to owner or group, provides all permissions to users 
+	Provides no permissions to owner or group, provides all permissions to users
+
+9-John_Doe
+
+	Provides the following permissions to te file 'hello' -rwxr-x-wx 
