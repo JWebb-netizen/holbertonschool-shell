@@ -36,4 +36,8 @@
 
 9-John_Doe
 
-	Provides the following permissions to te file 'hello' -rwxr-x-wx 
+	Provides the following permissions to te file 'hello' -rwxr-x-wx
+
+10-mirror_permissions
+
+	Mirrors permissions from the file hello to the file olleh 
