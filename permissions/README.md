@@ -57,3 +57,7 @@
 14-change_owner_and_group
 
 	Changes the owner to vincent and group owner to staff for all files and directories in the working 		directory
+
+15-symbolic_link_permissions
+
+	Change owner to vincent and group owner to staff for _hello, a symbolic link
