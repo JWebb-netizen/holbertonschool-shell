@@ -53,3 +53,7 @@
 13-change_group
 
 	Change the group owner of 'hello' to school
+
+14-change_owner_and_group
+
+	Changes the owner to vincent and group owner to staff for all files and directories in the working 		directory
