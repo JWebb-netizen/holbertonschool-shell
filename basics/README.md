@@ -49,3 +49,7 @@
 12-file_type
 
 	Returns the file type of iamafile in /tmp
+
+13-symbolic_link
+
+	Creates a symbolic link to /bin/ls with the name _ls_
