@@ -65,3 +65,7 @@
 16-clean_emacs
 
 	Removes all files in current directory which end in ~
+
+17-tree
+
+	Creates the directories /welcome/to/school in the current working directory
