@@ -40,4 +40,8 @@
 
 10-mirror_permissions
 
-	Mirrors permissions from the file hello to the file olleh 
+	Mirrors permissions from the file olleh to the file hello
+
+11-directories_permissions
+
+	Provides execute permission for all users to all subdirectories in working directory
