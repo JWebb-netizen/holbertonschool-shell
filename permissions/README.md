@@ -45,3 +45,7 @@
 11-directories_permissions
 
 	Provides execute permission for all users to all subdirectories in working directory
+
+12-directory_permissions
+
+	Creates the directory my_dir with permissions 751
