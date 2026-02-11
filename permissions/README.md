@@ -16,4 +16,8 @@
 
 4-empty
 
-	creates an empty file called 'hello'
+	Creates an empty file called 'hello'
+
+5-execute
+
+	Gives the user execute permission for the file 'hello' 
