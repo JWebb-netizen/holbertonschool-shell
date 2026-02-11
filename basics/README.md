@@ -61,3 +61,7 @@
 15-lets_move
 
 	Moves all files with upper case first letters from current directory to /tmp/u
+
+16-clean_emacs
+
+	Removes all files in current directory which end in ~
