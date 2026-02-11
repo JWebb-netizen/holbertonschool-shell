@@ -45,3 +45,7 @@
 11-lists
 
 	Lists the contents of the current directory, parent directory and boot directory, including hidden files	, in long format.
+
+12-file_type
+
+	Returns the file type of iamafile in /tmp
