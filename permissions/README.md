@@ -9,3 +9,11 @@
 2-groups
 
 	Print the groups the user of which the user is a member
+
+3-new_owner
+
+	Transfers ownership of the file 'hello' to betty
+
+4-empty
+
+	creates an empty file called 'hello'
