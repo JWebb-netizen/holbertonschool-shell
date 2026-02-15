@@ -21,3 +21,7 @@
 6-third_line
 
 	Prints only the third line from the file iacta
+
+8-cwd_state
+
+	Saves the contents of the current working directory, in long format, to the file ls_cwd_content
