@@ -1,2 +1,2 @@
 #!/bin/bash
-tail +14 iacta | cut -d " " -f 1- >> iacta
+tail -n +14 iacta > echo  >> iacta
