@@ -25,3 +25,7 @@
 8-cwd_state
 
 	Saves the contents of the current working directory, in long format, to the file ls_cwd_content
+
+10-no_more_js
+
+	Deletes .js regular files from directory and sub directory
