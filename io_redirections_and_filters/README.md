@@ -17,3 +17,7 @@
 5-lastlines
 
 	Prints the first 10 lines of /etc/passwd
+
+6-third_line
+
+	Prints only the third line from the file iacta
