@@ -42,3 +42,7 @@
 10-no_more_js
 
 	Deletes .js regular files from directory and sub directory
+
+12-newest_files
+
+	Prints the 10 newest files in the directory
